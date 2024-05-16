@@ -2,7 +2,7 @@
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Daniieel5K/)
 [![steam](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](279291041847312384)
 
-!Daniel Stats
+[Daniel Stats](https://github-readme-stats.vercel.app/api?username=zorDanieel&show_icons=true&theme=radical)
 
 
 Tecnologias que utilizo no meu dia!!
